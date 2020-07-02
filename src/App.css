@@ -1,0 +1,16 @@
+body{
+  background-color: #444444 !important;
+}
+.App {
+  background-color: black;
+}
+.resultados {
+  background-color: #444444;
+}
+.card {
+  background-color: #222222 !important
+}
+.card-img-top {
+  height: 147px;
+  max-height: 147px;
+}
